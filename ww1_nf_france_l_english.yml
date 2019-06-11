@@ -174,8 +174,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  # [FRENCH REPUBLIC] Naval Effort
  #=========================================================================
  FRA_ww1_naval_effort:0 "프랑스 해군 강화"
- FRA_ww1_naval_effort_desc:0 "The British having a grand Royal Navy is no excuse for France to be lacking with her own fleet. With our navy being partially a source of national pride and partially a way to ensure that the Mediterranean is secure no matter which way Italy goes, we cannot afford to fall behind the Germans, Italians, or Austrians when it comes to a modern, well-staffed fleet, with solid admirals." #KAISER_ANONY
-
+ FRA_ww1_naval_effort_desc:0 "영국 왕립 해군이 있는 영국을 볼때, 프랑스의 함대가 부족할 이유가 없습니다. 해군은 국가적 자부심의 원천이며, 이탈리아가 지중해 어디를 가더라도 안전하게 여기게 해주는 수단인만큼, 완벽한 제독으로 근대화되는 함대에 대해서는 독일인, 이탈리아인, 오스트리아인들에게 뒤쳐질 여유가 없습니다."
  FRA_ww1_newnavalcanons_1:0 "함포 개발"
  FRA_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
 
@@ -254,7 +253,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_military_youth_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_student_movement_focus:0 "학생 운동"
- FRA_ww1_student_movement_focus_desc:0 "The youth of our country are bright indeed, and that can help us for our research, particularly in the field of Land Doctrines." #KAISER_ANONY
+ FRA_ww1_student_movement_focus_desc:0 "우리나라의 젊은이들은 밝으며, 그들은 우리의 연구, 특히 육군 교리에서 우리의 도움이 될 수 있습니다." #KAISER_ANONY
 
  FRA_ww1_monarchy:0 "권위주의 중점"
  FRA_ww1_monarchy_desc:0 "" #KAISER_ANONY
@@ -290,8 +289,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_leave_triple_entente:0 "삼국 협상 탈퇴"
-  FRA_ww1_leave_triple_entente_desc:0 "Since the direction of the French government has changed so drastically, we no longer have any significant connection, or national appeal for, an alliance with the United Kingdom and Russia. In fact, many of our citizens are already supporting a return to a rivalry with the former. This seems to be the end of the Triple Entente."
-
+  FRA_ww1_leave_triple_entente_desc:0 "프랑스 정부의 방향이 바뀌었기 때문에 우리는 더 이상 영국, 러시아와의 동맹에 대해 그렇다할 이유나 국민적 호소력을 갖지 못하고 있습니다. 사실, 많은 국민들이 이미 영국, 러시아와의 경쟁관계로의 복귀를 원하고 있습니다. 삼국 협상의 끝인거 같습니다."
  FRA_ww1_install_communism:0 "프롤레타리아 혁명"
  FRA_ww1_install_communism_desc:0 "파리는 언제나 혁명의 불길에 휩싸여 있었고, 지금 상황에서도 다른 점은 없다. 다른 붉은 반란을 지원하는 건 자칭 "파리 코뮌"을 키우는 것이다. 만약 지금, 정부군이 총을 내려놓는다면, 프랑스는 세계 최초의 공산주의 국가가 될 것이다."
 
@@ -305,13 +303,13 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
 FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_triple_alliance:0 "협상국 동맹 강화"
-FRA_ww1_triple_alliance_desc:0 "The Entente was formed for a direct reason- to oppose German interests. We must remind the Russia that, for our squabbles, that is an aim we must stay true on, or else they might become too strong to oppose."
+FRA_ww1_triple_alliance_desc:0 "삼국 협상은 독일의 이익에대해 대항하는 직접적인 이유로 만들어졌습니다. 우리는 대항에 대해 진정으로 그 목표를 지켜야 하며, 그렇지 않으면 독일에 대항하기에 독일이 매우 강해질 수 있다는 것을 러시아에게 상기시켜줘야 합니다."
 
  FRA_ww1_back_uk:0 "영국을 지원한다"
 FRA_ww1_back_uk_desc:0 "영국은 프랑스 최대의 적이었던 적이 있으나, 그 시절은 이미 지났다. 영국을 더 지원함으로서 아마도 러시아와의 관계가 조금 틀어질 것이나, 영국에게 해군이 있다면 우리에게 육군이 있다는 걸 명확히 할 수 있을 것이다."
 
  FRA_ww1_back_russia:0 "러시아 제국을 지원한다"
-FRA_ww1_back_russia_desc:0 "The Russians are a distant ally, seperated from us by the entirety of our rivals, the Central Powers! Yet, they are still the largest land army in Europe, if with some major supply issues, and are second only in ''true power'' to Germany themselves. We must focus our relations on them, even if it's at a slight cost in relations with Britain." 
+FRA_ww1_back_russia_desc:0 "러시아는 우리의 라이벌인 독일에 의해 멀리 떨어져 있습니다! 주요 물품의 공급문제가 있음에도 유럽 최대의 육군으로 남아 있으며, 독일에 이어 '진정한 힘'을 발휘합니다. 우리는 영국과의 관계에서 약간의 어려움이 있더라도 우리는 러시아와의 관계에 초점을 맞추어야 합니다."
 
  FRA_ww1_inviteBELGIUM:0 "벨기에를 돕자"
 FRA_ww1_inviteBELGIUM_desc:0 "벨기에는 독일에게 맞서기 위해 우리의 도움이 필요하다."
